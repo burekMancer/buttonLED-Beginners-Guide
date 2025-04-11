@@ -1,8 +1,8 @@
 # Button controller LED - User Manual
 ### A __beginners__ guide meant to help beginners understand the setup and use of a Button-Controlled LED system
  $~$    
- $~$
- $~$    
+ 
+ 
  ![Project Preview](/img/tinkercad.png)       
 
 ## __Table of Contents__
