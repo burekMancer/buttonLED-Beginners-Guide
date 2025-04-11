@@ -149,8 +149,8 @@ $~$
   ![Finished model](/img/aPic.png)
 * __Now to test the project you simply have to press the button. This should be the response__  
 [![Watch the video](https://img.youtube.com/vi/S3uoCMsGVrU/0.jpg)](https://www.youtube.com/watch?v=S3uoCMsGVrU)
-$~$  
-$~$  
+  
+  
 
 ## Troubleshooting
 Some common problems and fixes:  
